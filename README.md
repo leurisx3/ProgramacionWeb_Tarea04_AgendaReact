@@ -1,3 +1,15 @@
+Mi nombre es Leuris Andres de los Santos Castillo / 2019-8913 y esta es la tarea 04 agenda react.
+
+# Fetch method: GET
+
+![SC1](./screenshots/1.PNG)
+
+# Fetch method: POST
+
+![SC2](./screenshots/2.PNG)
+![SC3](./screenshots/3.PNG)
+![SC4](./screenshots/4.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
